@@ -5,5 +5,6 @@ export enum enumDesignPatterns {
   TemplateMethod = "TemplateMethod",
   Strategy = "Strategy",
   Proxy = "Proxy",
-  Facade = "Facade"
+  Facade = "Facade",
+  AbstractFactory ="AbstractFactory"
 }
