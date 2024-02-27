@@ -10,7 +10,7 @@ function executeDesignPattern(): void {
 
   facadeTestDesignPatterns
     .newFacadeCheckDesignPatterns()
-    .setDesignPattern(enumDesignPatterns.AbstractFactory)
+    .setDesignPattern(enumDesignPatterns.Command)
     .execute();
 }
 

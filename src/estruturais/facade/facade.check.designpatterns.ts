@@ -9,6 +9,7 @@ import { loginType } from "../../comportamentais/strategy/enum/enum.typeLogin";
 import designerPatternProxy from "../proxy";
 import designerPatternFacade from ".";
 import designerPatternAbstractFactory from "../../criacionais/abstract factory";
+import designerPatternCommand from "../../comportamentais/command";
 
 export default class facadeCheckDesignPatterns {
   static instance: facadeCheckDesignPatterns;
@@ -72,6 +73,10 @@ export default class facadeCheckDesignPatterns {
 
       case enumDesignPatterns.AbstractFactory:
         designerPatternAbstractFactory();
+        break;
+
+      case enumDesignPatterns.Command:
+        designerPatternCommand();
         break;
 
       default:
