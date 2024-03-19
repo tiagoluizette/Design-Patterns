@@ -10,6 +10,7 @@ import designerPatternProxy from "../proxy";
 import designerPatternFacade from ".";
 import designerPatternAbstractFactory from "../../criacionais/abstract factory";
 import designerPatternCommand from "../../comportamentais/command";
+import designerPatternState from "../../comportamentais/state";
 
 export default class facadeCheckDesignPatterns {
   static instance: facadeCheckDesignPatterns;
@@ -77,6 +78,10 @@ export default class facadeCheckDesignPatterns {
 
       case enumDesignPatterns.Command:
         designerPatternCommand();
+        break;
+
+      case enumDesignPatterns.State:
+        designerPatternState();
         break;
 
       default:

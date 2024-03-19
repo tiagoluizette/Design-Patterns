@@ -1,5 +1,4 @@
-
-# Facade
+## Facade
 
 ### Fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes. É útil ao ter uma biblioteca ou classe complexa com muitos métodos, ou funcionalidades, onde esses métodos complexos ficam encapsulados na classe facade disponibilizando apenas o que é necessário para o funcionamento do sistema.
 

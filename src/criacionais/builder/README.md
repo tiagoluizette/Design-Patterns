@@ -1,4 +1,4 @@
-# Builder
+## Builder
 
 ### Permite construir diferentes representações de um objeto complexo utilizando a mesma interface, utilizando o encadeamento de métodos(Chaining).
 

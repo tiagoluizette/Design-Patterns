@@ -8,4 +8,5 @@ export enum enumDesignPatterns {
   Facade = "Facade",
   AbstractFactory = "AbstractFactory",
   Command = "Command",
+  State= "State",
 }

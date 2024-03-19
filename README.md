@@ -1,10 +1,11 @@
-# Design Patterns - NodeJS|JavaScript|TypeScript
+## Design Patterns - NodeJS|JavaScript|TypeScript
 
 ### Os design patterns, ou padrões de projeto, são soluções para problemas comuns que surgem durante o desenvolvimento de software. Eles são descrições de boas práticas que podem ser aplicadas em diferentes situações para resolver problemas específicos. Os design patterns fornecem uma linguagem comum para os desenvolvedores discutirem soluções e ajudam a evitar a repetição de erros comuns. Eles também promovem a reutilização de código, facilitando a manutenção e evolução do software.
 
-### No geral, os design patterns são ferramentas poderosas para melhorar a qualidade, a manutenibilidade e a extensibilidade do software.
+#### No geral, os design patterns são ferramentas poderosas para melhorar a qualidade, a manutenibilidade e a extensibilidade do software.
 
-### Alguns dos propósitos dos design patterns são:
+#### Alguns dos propósitos dos design patterns são:
+
 - Padrões de Comunicação: Eles fornecem uma linguagem comum e compartilhada entre desenvolvedores para comunicar soluções para problemas recorrentes.
 - Reusabilidade: Os design patterns promovem o reuso de soluções bem-sucedidas para problemas conhecidos, economizando tempo e esforço de desenvolvimento.
 - Manutenção: Eles facilitam a manutenção do código ao fornecer soluções padronizadas e bem compreendidas para problemas comuns, tornando o código mais fácil de entender e modificar.

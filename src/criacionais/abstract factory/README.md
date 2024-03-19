@@ -1,5 +1,4 @@
-
-# Abstract Factory
+## Abstract Factory
 
 ### É um padrão de projeto que fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
 

@@ -1,4 +1,4 @@
-# Strategy
+## Strategy
 
 ### O objetivo é, permitir que uma aplicação selecione e use um algoritmo em tempo de execução de acordo com condições impostas pela regra de negócio. Disponibiliza opção de selecionar um algorítimo em tempo de execução conforme a regra de negócio.
 

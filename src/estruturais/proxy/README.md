@@ -1,5 +1,4 @@
-
-# Proxy
+## Proxy
 
 ### Controla o acesso ao objeto principal, permitindo fazer algo antes em outro lugar antes do pedido chegar ao objeto original.
 

@@ -1,4 +1,4 @@
-# Factory Method
+## Factory Method
 
 ### É útil quando você precisa criar objetos dinamicamente sem conhecer a classe de implementação, somente sua interface: o padrão factory estabelece uma forma de desenvolver objetos responsáveis pela criação de outros objetos.
 
